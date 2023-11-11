@@ -1,0 +1,5 @@
+Agenda:
+1.git hub respository
+2.new environment
+3.setup.py
+4.requirement.txt
