@@ -2,7 +2,10 @@
     "cSpell.words": [
         "dataframe",
         "Dataingestionconfig",
+        "datapoint",
         "levelname",
+        "predictdata",
+        "preds",
         "quantile"
     ]
 }
